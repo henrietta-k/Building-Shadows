@@ -1,0 +1,2 @@
+Rectangles [6, 2, 2]
+Rectangles 5
